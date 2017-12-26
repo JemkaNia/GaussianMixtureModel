@@ -1,0 +1,2 @@
+# GaussianMixtureModel
+Репозиторий для курсовой
